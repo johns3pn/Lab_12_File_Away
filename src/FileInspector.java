@@ -73,6 +73,7 @@ public class FileInspector {
 
         } else {
             System.out.println("No file selected.");
+
         }
     }
 }

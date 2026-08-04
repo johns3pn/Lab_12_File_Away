@@ -55,6 +55,7 @@ public class DataSaver {
         } catch (IOException e) {
             System.out.println("Error writing file.");
             e.printStackTrace();
+
         }
 
         in.close();

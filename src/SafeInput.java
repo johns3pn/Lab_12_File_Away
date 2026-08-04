@@ -76,6 +76,7 @@ public class SafeInput
             else
             {
                 System.out.println("Input does not match the required format.");
+
             }
         }
     }
